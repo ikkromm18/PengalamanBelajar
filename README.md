@@ -10,3 +10,4 @@ Progress Belajar Git dan GitHub (38%)
 15 Agustus Part 2
 --
 * melanjutkan belajar dasar git dan github di website dicoding
+* belajar membuat brach
