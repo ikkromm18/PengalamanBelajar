@@ -11,3 +11,7 @@ Progress Belajar Git dan GitHub (38%)
 --
 * melanjutkan belajar dasar git dan github di website dicoding
 * belajar membuat brach
+
+  16 Agustus 2023
+  --
+  * menyelesaikan kelas Git dan GitHub Dicoding
